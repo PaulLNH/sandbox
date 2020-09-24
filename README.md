@@ -1,8 +1,8 @@
 # Horiseon Refactor Project
 
-[Horizon Refractor Project](./02-Homework/Develop/index.html#search-engine-optimization)
+[Horizon Refractor Project](02-Homework/Develop/index.html#search-engine-optimization)
 
-![Website Image](./02-Homework/Assets/01-html-css-git-homework-demo.png)
+![Website Image](02-Homework/Assets/01-html-css-git-homework-demo.png)
 
 ---
 
