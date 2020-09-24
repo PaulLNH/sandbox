@@ -1,8 +1,8 @@
 # Horiseon Refactor Project
 
-[Horizon Refractor Project](02-Homework/Develop/index.html#search-engine-optimization)
+[Horizon Refractor Project](./02-Homework/Develop/index.html#search-engine-optimization)
 
-![Website Image](02-Homework/Assets/01-html-css-git-homework-demo.png)
+![Website Image](./02-Homework/Assets/01-html-css-git-homework-demo.png)
 
 ---
 
@@ -28,7 +28,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 3. Added a title.
 4. fixed a broken link. "Search Engine optimization."
 
-![HTML Comparison](02-Homework\Assets\html-comparison.png)
+![HTML Comparison](./02-Homework/Assets/html-comparison.png)
 
 ## CSS Findings
 
@@ -37,7 +37,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 1. CSS was out of order: Ordered CSS to follow HTML flow.
 2. Repetitive code: Consilidated repetitive CSS. Particurally in the main and aside sections where multiple classes were used for the same styling.
 
-![Shortened Code Example](02-Homework\Assets\shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
+![Shortened Code Example](./02-Homework/Assets/shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
 
 ## What I learned in this project
 
